@@ -1,0 +1,333 @@
+@UTF8
+@PID:	11312/a-00008154-1
+@Begin
+@Languages:	eng
+@Participants:	CDS Caregiver Participant
+@ID:	eng|Nuffield|CDS|||||Participant|||
+@Types:	long, everyday, TD
+*CDS:	shall we build a tower ?
+%mor:	mod|shall pro:sub|we v|build det:art|a n|tower ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%com:	ppt_75
+*CDS:	build a tower ?
+%mor:	v|build det:art|a n|tower ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CDS:	Childsname .
+%mor:	n:prop|Childsname .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ugh !
+%mor:	co|ugh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	where've they gone ?
+%mor:	pro:rel|where~aux|have pro:sub|they part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	where've they gone ?
+%mor:	pro:rel|where~aux|have pro:sub|they part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	here we go .
+%mor:	adv|here pro:sub|we v|go .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	is that better ?
+%mor:	cop|be&3S comp|that adj|good&CP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	where've they gone ?
+%mor:	pro:rel|where~aux|have pro:sub|they part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	where've they gone ?
+%mor:	pro:rel|where~aux|have pro:sub|they part|go&PASTP ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	oops_a_daisy .
+%mor:	co|oops_a_daisy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	clever boy .
+%mor:	adj|clever n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	are you reading ?
+%mor:	cop|be&PRES pro:per|you part|read-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CDS:	are you reading Childsname ?
+%mor:	cop|be&PRES pro:per|you part|read-PRESP n:prop|Childsname ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|OBJ 5|1|PUNCT
+*CDS:	you reading ?
+%mor:	pro:per|you part|read-PRESP ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CDS:	the elephant ?
+%mor:	det:art|the n|elephant ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CDS:	birthday cake .
+%mor:	n|+n|birth+n|day n|cake .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	turn the page ?
+%mor:	v|turn det:art|the n|page ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	animals .
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	turn the page again .
+%mor:	v|turn det:art|the n|page adv:tem|again .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|1|PUNCT
+*CDS:	Childsname do it .
+%mor:	n:prop|Childsname mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CDS:	clever boy .
+%mor:	adj|clever n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	turn the page again ?
+%mor:	v|turn det:art|the n|page adv:tem|again ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|JCT 5|1|PUNCT
+*CDS:	Childsname do it .
+%mor:	n:prop|Childsname mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CDS:	clever boy .
+%mor:	adj|clever n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	achoo !
+%mor:	co|achoo !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	is he sneezing ?
+%mor:	cop|be&3S pro:sub|he part|sneeze-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CDS:	ahhah are we having a story ?
+%mor:	co|ahhah cop|be&PRES pro:sub|we part|have-PRESP det:art|a n|story ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|XMOD 5|6|DET 6|4|OBJ 7|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	elephant [?] .
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	Trumpety_humpety trumpety trumps .
+%mor:	n:prop|Trumpety_humpety adj|trumpet&dn-Y n|trump-PL .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CDS:	Trumpety_humpety is down in the dumps .
+%mor:	n:prop|Trumpety_humpety cop|be&3S adv|down prep|in det:art|the n|dump-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*CDS:	I just don't feel right he snuffles and sniffs .
+%mor:	pro:sub|I adv|just mod|do~neg|not v|feel adv|right pro:sub|he v|snuffle-3S coord|and v|sniff-3S .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|JCT 7|8|SUBJ 8|5|COMP 9|8|CONJ 10|9|COORD 11|5|PUNCT
+*CDS:	I cant smell bananas and other nice whiffs !
+%mor:	pro:sub|I n|cant n|smell n|banana-PL coord|and qn|other adj|nice n|whiff-PL !
+%gra:	1|4|SUBJ 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|CONJ 6|8|QUANT 7|8|MOD 8|5|COORD 9|4|PUNCT
+*CDS:	ahhah his friends from the jungle all gather together and Florence flamingo produces a feather .
+%mor:	co|ahhah det:poss|his n|friend-PL prep|from det:art|the n|jungle post|all v|gather adv|together coord|and n:prop|Florence n|flamingo v|produce-3S det:art|a n|feather .
+%gra:	1|8|COM 2|3|DET 3|8|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PQ 8|0|ROOT 9|8|JCT 10|13|LINK 11|12|MOD 12|13|SUBJ 13|8|CJCT 14|15|DET 15|13|OBJ 16|8|PUNCT
+*CDS:	I think this feather should do the trick .
+%mor:	pro:sub|I v|think det:dem|this n|feather mod|should v|do det:art|the n|trick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|SUBJ 5|6|AUX 6|2|COMP 7|8|DET 8|6|OBJ 9|2|PUNCT
+*CDS:	Tumpety_humpety's not really sick .
+%mor:	n:prop|Tumpety_humpety~cop|be&3S neg|not adv|real&dadj-LY adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+*CDS:	she tickled his trunk and they all looked so pleased when Trumpety_humpety finally sneezed .
+%mor:	pro:sub|she v|tickle-PAST det:poss|his n|trunk coord|and pro:sub|they post|all cop|look-PAST adv|so part|please-PASTP conj|when n:prop|Trumpety_humpety adv|final&dadj-LY v|sneeze-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|6|PQ 8|2|CJCT 9|10|JCT 10|8|PRED 11|14|LINK 12|14|SUBJ 13|14|JCT 14|8|CJCT 15|2|PUNCT
+*CDS:	&~a &~a achoo !
+%mor:	co|achoo !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	achoo !
+%mor:	co|achoo !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ah !
+%mor:	co|ah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what_about this one ?
+%mor:	pro:int|what_about det:dem|this pro:indef|one ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CDS:	Woolys walk .
+%mor:	n:prop|Woolys n|walk .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	feel him ?
+%mor:	v|feel pro:obj|him ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CDS:	this is Wooly the sheep .
+%mor:	pro:dem|this cop|be&3S n:prop|Wooly det:art|the n|sheep .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|DET 5|3|OBJ 6|2|PUNCT
+*CDS:	she's looking [?] for some lunch .
+%mor:	pro:sub|she~aux|be&3S part|look-PRESP prep|for qn|some n|lunch .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*CDS:	don't eat those flowers Wooly .
+%mor:	mod|do~neg|not v|eat pro:dem|those n|flower-PL n:prop|Wooly .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*CDS:	the bees might sting your nose .
+%mor:	det:art|the n|bee-PL mod|might v|sting det:poss|your n|nose .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CDS:	don't eat that apple Wooly !
+%mor:	mod|do~neg|not v|eat det:dem|that n|apple n:prop|Wooly !
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APP 7|3|PUNCT
+*CDS:	the birds might pick your toes .
+%mor:	det:art|the n|bird-PL mod|might v|pick det:poss|your n|toe-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CDS:	peck peck peck !
+%mor:	n|peck n|peck n|peck !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CDS:	and don't eat those thistles Wooly .
+%mor:	coord|and mod|do~neg|not v|eat det:dem|those n|thistle-PL n:prop|Wooly .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|APP 8|4|PUNCT
+*CDS:	ugh !
+%mor:	co|ugh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah they might prickle your ears .
+%mor:	co|ahhah pro:sub|they mod|might v|prickle det:poss|your n|ear-PL .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*CDS:	don't eat that Wooly .
+%mor:	mod|do~neg|not v|eat comp|that n:prop|Wooly .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|OBJ 5|4|APP 6|3|PUNCT
+*CDS:	feel .
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CDS:	ahhah its bunnys fluffy tail .
+%mor:	co|ahhah det:poss|its n|bunny-PL adj|fluff&dn-Y n|tail .
+%gra:	1|5|COM 2|3|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*CDS:	eat the grass Wooly .
+%mor:	v|eat det:art|the n|grass n:prop|Wooly .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|APP 5|1|PUNCT
+*CDS:	it's nice and safe .
+%mor:	pro:per|it~cop|be&3S adj|nice coord|and adj|safe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|CONJ 5|4|COORD 6|2|PUNCT
+*CDS:	that good ?
+%mor:	det:dem|that adj|good ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*CDS:	are you reading ?
+%mor:	cop|be&PRES pro:per|you part|read-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*CDS:	is Childsname reading ?
+%mor:	cop|be&3S n:prop|Childsname part|read-PRESP ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|1|PUNCT
+*CDS:	Wooly the sheep .
+%mor:	n:prop|Wooly det:art|the n|sheep .
+%gra:	1|0|INCROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CDS:	ah some flowers !
+%mor:	co|ah qn|some n|flower-PL !
+%gra:	1|3|COM 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*CDS:	you feel ?
+%mor:	pro:per|you v|feel ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*CDS:	feel them ?
+%mor:	v|feel pro:obj|them ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	careful [?] .
+%mor:	adj|care&dn-FULL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	thistles .
+%mor:	n|thistle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	feel ?
+%mor:	v|feel ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CDS:	and bunnys fluffy tail .
+%mor:	coord|and n|bunny-PL adj|fluff&dn-Y n|tail .
+%gra:	1|4|LINK 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*CDS:	can you feel that ?
+%mor:	mod|can pro:per|you v|feel pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	can you feel bunny's tail ?
+%mor:	mod|can pro:per|you v|feel adj|bunny&dn-POSS n|tail ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*CDS:	you want this one again ?
+%mor:	pro:per|you v|want det:dem|this pro:indef|one adv:tem|again ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|COMP 5|4|JCT 6|2|PUNCT
+*CDS:	Trumepty_humpety trumpety trumps .
+%mor:	n:prop|Trumepty_humpety adj|trumpet&dn-Y n|trump-PL .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CDS:	Trumpety_humpetys down in the dumps .
+%mor:	n:prop|Trumpety_humpetys adv|down prep|in det:art|the n|dump-PL .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CDS:	do it !
+%mor:	mod|do pro:per|it !
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*CDS:	Childsname do it .
+%mor:	n:prop|Childsname mod|do pro:per|it .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|INCROOT 4|3|PUNCT
+*CDS:	I just don't feel right he snuffles and sniffs .
+%mor:	pro:sub|I adv|just mod|do~neg|not v|feel adv|right pro:sub|he v|snuffle-3S coord|and v|sniff-3S .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|JCT 7|8|SUBJ 8|5|COMP 9|8|CONJ 10|9|COORD 11|5|PUNCT
+*CDS:	I can't smell bananas and other nice whiffs .
+%mor:	pro:sub|I mod|can~neg|not v|smell n|banana-PL coord|and qn|other adj|nice n|whiff-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|CONJ 7|9|QUANT 8|9|MOD 9|6|COORD 10|4|PUNCT
+*CDS:	his friends from the jungle all gathered together and Florence Flamingo produces a feather .
+%mor:	det:poss|his n|friend-PL prep|from det:art|the n|jungle post|all v|gather-PAST adv|together coord|and n:prop|Florence n:prop|Flamingo v|produce-3S det:art|a n|feather .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PQ 7|0|ROOT 8|7|JCT 9|12|LINK 10|11|NAME 11|12|SUBJ 12|7|CJCT 13|14|DET 14|12|OBJ 15|7|PUNCT
+*CDS:	I think that this feather should do the trick .
+%mor:	pro:sub|I v|think comp|that det:dem|this n|feather mod|should v|do det:art|the n|trick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|LINK 4|5|DET 5|7|SUBJ 6|7|AUX 7|2|COMP 8|9|DET 9|7|OBJ 10|2|PUNCT
+*CDS:	Trumpety_humpety's not really sick .
+%mor:	n:prop|Trumpety_humpety~cop|be&3S neg|not adv|real&dadj-LY adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+*CDS:	she tickled his trunk and they all looked so pleased when Trumpety_humpety finally sneezed .
+%mor:	pro:sub|she v|tickle-PAST det:poss|his n|trunk coord|and pro:sub|they post|all cop|look-PAST adv|so part|please-PASTP conj|when n:prop|Trumpety_humpety adv|final&dadj-LY v|sneeze-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|LINK 6|8|SUBJ 7|6|PQ 8|2|CJCT 9|10|JCT 10|8|PRED 11|14|LINK 12|14|SUBJ 13|14|JCT 14|8|CJCT 15|2|PUNCT
+*CDS:	ah ah achoo !
+%mor:	co|ah co|ah n|achoo !
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*CDS:	that's it !
+%mor:	pro:dem|that~cop|be&3S pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	oops !
+%mor:	co|oops !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what_about this ?
+%mor:	pro:int|what_about pro:dem|this ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*CDS:	wanna play this ?
+%mor:	v|want~inf|to v|play pro:dem|this ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|3|OBJ 5|1|PUNCT
+*CDS:	busy [?] ball drop !
+%mor:	adj|busy n|ball n|drop !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CDS:	are you ready ?
+%mor:	cop|be&PRES pro:per|you adj|ready ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|PRED 4|1|PUNCT
+*CDS:	ahhah !
+%mor:	co|ahhah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah !
+%mor:	co|ahhah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ugh !
+%mor:	co|ugh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	can Childsname do it ?
+%mor:	mod|can n:prop|Childsname mod|do pro:per|it ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	clever boy .
+%mor:	adj|clever n|boy .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	again ?
+%mor:	adv:tem|again ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah yeah !
+%mor:	co|ahhah co|yeah !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	&=kisses good boy !
+%mor:	adj|good n|boy !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*CDS:	gonna let it go ?
+%mor:	part|go&PRESP~inf|to v|let&ZERO pro:per|it v|go ?
+%gra:	1|0|ROOT 2|3|INF 3|1|COMP 4|5|SUBJ 5|3|COMP 6|1|PUNCT
+*CDS:	let it go .
+%mor:	v|let&ZERO pro:per|it v|go .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|1|PUNCT
+*CDS:	woo !
+%mor:	co|woo !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,348 @@
+@UTF8
+@PID:	11312/a-00008180-1
+@Begin
+@Languages:	eng
+@Participants:	CDS Caregiver Participant
+@ID:	eng|Nuffield|CDS|||||Participant|||
+@Types:	long, everyday, TD
+*CDS:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+%com:	PPT_125
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	that your teddy ?
+%mor:	comp|that det:poss|your n|teddy ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CDS:	&-uh ow !
+%mor:	co|ow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	soft ?
+%mor:	adj|soft ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh is that right ?
+%mor:	co|oh cop|be&3S comp|that co|right ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*CDS:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	is your chair in the way ?
+%mor:	cop|be&3S det:poss|your n|chair prep|in det:art|the n|way ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|NJCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*CDS:	lets move your chair !
+%mor:	v|let-3S n|move det:poss|your n|chair !
+%gra:	1|0|ROOT 2|1|OBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+*CDS:	where's your other one ?
+%mor:	pro:int|where~cop|be&3S det:poss|your qn|other pro:indef|one ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	Childsname .
+%mor:	n:prop|Childsname .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	boo !
+%mor:	n|boo !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	haha !
+%mor:	co|haha !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	hidy !
+%mor:	adj|hide&dn-Y !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oopsie_daisy !
+%mor:	co|oopsie_daisy !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh come here !
+%mor:	co|oh v|come adv|here !
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CDS:	oh dear !
+%mor:	co|oh n|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	silly sausage !
+%mor:	co|silly n|sausage !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	oh dear .
+%mor:	co|oh n|dear .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	oh dear !
+%mor:	co|oh n|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	what did you bump ?
+%mor:	pro:int|what mod|do&PAST pro:per|you v|bump ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	that's it !
+%mor:	pro:dem|that~cop|be&3S pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	all_gone !
+%mor:	co|all_gone !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh dear !
+%mor:	co|oh n|dear !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	oh come on .
+%mor:	co|oh v|come adv|on .
+%gra:	1|2|COM 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*CDS:	you've had worse .
+%mor:	pro:per|you~aux|have part|have&PASTP adj|bad&CP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*CDS:	what's these ?
+%mor:	pro:int|what~cop|be&3S pro:dem|these ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	what's these ?
+%mor:	pro:int|what~cop|be&3S pro:dem|these ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	put them on your hands .
+%mor:	v|put&ZERO pro:obj|them prep|on det:poss|your n|hand-PL .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*CDS:	yay !
+%mor:	co|yay !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	oh I know !
+%mor:	co|oh pro:sub|I v|know !
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	come on !
+%mor:	v|come adv|on !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CDS:	argh !
+%mor:	co|argh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah !
+%mor:	co|ahhah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	where's your baby ?
+%mor:	pro:int|where~cop|be&3S det:poss|your n|baby ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CDS:	where's baby ?
+%mor:	pro:int|where~cop|be&3S n|baby ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what you got ?
+%mor:	pro:int|what pro:per|you part|get&PASTP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	want it back ?
+%mor:	v|want pro:per|it adv|back ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CDS:	oh there you go !
+%mor:	co|oh adv|there pro:per|you v|go !
+%gra:	1|4|COM 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*CDS:	what's that one ?
+%mor:	pro:int|what~cop|be&3S det:dem|that pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta .
+%mor:	inf|to .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	shall I pop it on ?
+%mor:	mod|shall pro:sub|I v|pop pro:per|it adv|on ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	no you having it back ?
+%mor:	co|no pro:per|you part|have-PRESP pro:per|it adv|back ?
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CDS:	look !
+%mor:	co|look !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	pretty flowers !
+%mor:	adv|pretty n|flower-PL !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	pretty flowers on it !
+%mor:	adv|pretty n|flower-PL prep|on pro:per|it !
+%gra:	1|2|JCT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*CDS:	aw !
+%mor:	co|aw !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	want it on ?
+%mor:	v|want pro:per|it adv|on ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|1|PUNCT
+*CDS:	there you go !
+%mor:	adv|there pro:per|you v|go !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	oh lovely !
+%mor:	co|oh adj|love&dn-LY !
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*CDS:	aw, that's pretty !
+%mor:	co|aw cm|cm pro:dem|that~cop|be&3S adj|pretty !
+%gra:	1|4|COM 2|1|LP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*CDS:	argh [?] .
+%mor:	co|argh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	there you go !
+%mor:	adv|there pro:per|you v|go !
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	oh, lovely !
+%mor:	co|oh cm|cm adj|love&dn-LY !
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*CDS:	come here runny nose !
+%mor:	v|come adv|here adj|run&dn-Y n|nose !
+%gra:	1|0|ROOT 2|3|JCT 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	that's it !
+%mor:	pro:dem|that~cop|be&3S pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what else have you got ?
+%mor:	pro:int|what post|else v|have pro:per|you v|get&PAST ?
+%gra:	1|3|SUBJ 2|1|PQ 3|5|PRED 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CDS:	you got another one somewhere ?
+%mor:	pro:per|you v|get&PAST qn|another pro:indef|one n|somewhere ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*CDS:	where's that ?
+%mor:	pro:int|where~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	don't know where your other one is .
+%mor:	mod|do~neg|not v|know pro:int|where det:poss|your qn|other pro:indef|one cop|be&3S .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|8|LINK 5|7|DET 6|7|QUANT 7|8|SUBJ 8|3|COMP 9|3|PUNCT
+*CDS:	no !
+%mor:	co|no !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	don't know where it is .
+%mor:	mod|do~neg|not v|know pro:int|where pro:per|it cop|be&3S .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|6|LINK 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	yay !
+%mor:	co|yay !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	<bang bang bang bang> [?] .
+%mor:	n|bang n|bang n|bang n|bang .
+%gra:	1|4|MOD 2|4|MOD 3|4|MOD 4|0|ROOT 5|4|PUNCT
+*CDS:	bang bang bang bang bang !
+%mor:	n|bang n|bang n|bang n|bang n|bang !
+%gra:	1|5|MOD 2|5|MOD 3|5|MOD 4|5|MOD 5|0|ROOT 6|5|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what you got ?
+%mor:	pro:int|what pro:per|you part|get&PASTP ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	shall I have that as well ?
+%mor:	mod|shall pro:sub|I v|have pro:dem|that adv|as adv|well ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|4|JCT 7|3|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ah !
+%mor:	co|ah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what ?
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ahhah .
+%mor:	co|ahhah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oops !
+%mor:	co|oops !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	fell off !
+%mor:	v|fall&PAST adv|off !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CDS:	ahhah !
+%mor:	co|ahhah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	ta !
+%mor:	inf|to !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	got your foot caught in your dress .
+%mor:	v|get&PAST det:poss|your n|foot v|catch&PAST prep|in det:poss|your n|dress .
+%gra:	1|0|ROOT 2|3|DET 3|4|SUBJ 4|1|COMP 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*CDS:	bang !
+%mor:	n|bang !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	bash bash bash !
+%mor:	v|bash v|bash v|bash !
+%gra:	1|0|ROOT 2|1|COMP 3|2|COMP 4|1|PUNCT
+*CDS:	go on .
+%mor:	v|go adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*CDS:	use that one .
+%mor:	v|use det:dem|that pro:indef|one .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*CDS:	ahhah !
+%mor:	co|ahhah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

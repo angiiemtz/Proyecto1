@@ -1,0 +1,250 @@
+@UTF8
+@PID:	11312/a-00008179-1
+@Begin
+@Languages:	eng
+@Participants:	CDS Caregiver Participant
+@ID:	eng|Nuffield|CDS|||||Participant|||
+@Types:	long, everyday, TD
+*CDS:	be normal !
+%mor:	cop|be adv|normal !
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+%com:	PPT_123
+*CDS:	oh .
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what's this ?
+%mor:	pro:int|what~cop|be&3S pro:dem|this ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	I love my kitten .
+%mor:	pro:sub|I v|love det:poss|my n|kitten .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*CDS:	I love my kitten because she's soft and fluffy .
+%mor:	pro:sub|I v|love det:poss|my n|kitten conj|because pro:sub|she~cop|be&3S adj|soft coord|and adj|fluff&dn-Y .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|PRED 9|8|CONJ 10|9|COORD 11|2|PUNCT
+*CDS:	every morning she laps up milk from her special bowl .
+%mor:	qn|every n|morning pro:sub|she v|lap-3S prep|up n|milk prep|from det:poss|her adj|special n|bowl .
+%gra:	1|2|QUANT 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|JCT 8|10|DET 9|10|MOD 10|7|POBJ 11|4|PUNCT
+*CDS:	I love my kitten because she loves to play with wiggly wool .
+%mor:	pro:sub|I v|love det:poss|my n|kitten conj|because pro:sub|she v|love-3S prep|to n|play prep|with adj|wiggle&dv-Y n|wool .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|JCT 9|8|POBJ 10|7|JCT 11|12|MOD 12|10|POBJ 13|2|PUNCT
+*CDS:	she meows and chases squeaky mice across the room .
+%mor:	pro:sub|she v|meow-3S coord|and v|chase-3S adj|squeak&dv-Y n|mouse&PL prep|across det:art|the n|room .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|6|MOD 6|4|OBJ 7|6|NJCT 8|9|DET 9|7|POBJ 10|2|PUNCT
+*CDS:	I love my kitten because she purrs and swishes her tail .
+%mor:	pro:sub|I v|love det:poss|my n|kitten conj|because pro:sub|she v|purr-3S coord|and v|swish-3S det:poss|her n|tail .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|LINK 6|7|SUBJ 7|2|CJCT 8|7|CONJ 9|8|COORD 10|11|DET 11|9|OBJ 12|2|PUNCT
+*CDS:	she can't wait to go outside and play with her friends .
+%mor:	pro:sub|she mod|can~neg|not v|wait inf|to v|go adv|+prep|out+n|side coord|and n|play prep|with det:poss|her n|friend-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|CONJ 9|8|COORD 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*CDS:	at night my kitten snuggles .
+%mor:	prep|at n|night det:poss|my n|kitten v|snuggle-3S .
+%gra:	1|5|JCT 2|1|POBJ 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what else have we got ?
+%mor:	pro:int|what post|else v|have pro:sub|we v|get&PAST ?
+%gra:	1|3|SUBJ 2|1|PQ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*CDS:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	shall we do these ?
+%mor:	mod|shall pro:sub|we v|do pro:dem|these ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	shall we throw these ?
+%mor:	mod|shall pro:sub|we v|throw det:dem|these ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	and see if we can get them in ?
+%mor:	coord|and v|see conj|if pro:sub|we mod|can v|get pro:obj|them adv|in ?
+%gra:	1|2|LINK 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|6|OBJ 8|6|JCT 9|2|PUNCT
+*CDS:	Childsname ?
+%mor:	n:prop|Childsname ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	you ready, Childsname ?
+%mor:	pro:per|you v|ready cm|cm n:prop|Childsname ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|LP 4|2|ENUM 5|2|PUNCT
+*CDS:	Childsname !
+%mor:	n:prop|Childsname !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	look .
+%mor:	co|look .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	Mummy missed it !
+%mor:	n:prop|Mummy v|miss-PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	oh Mummy did it .
+%mor:	co|oh n:prop|Mummy mod|do&PAST pro:per|it .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CDS:	oh Mummy missed it .
+%mor:	co|oh n:prop|Mummy v|miss-PAST pro:per|it .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	Mummy missed it .
+%mor:	n:prop|Mummy v|miss-PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	shall we do it again ?
+%mor:	mod|shall pro:sub|we mod|do pro:per|it adv:tem|again ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*CDS:	oo Mummy got it in .
+%mor:	co|oo n:prop|Mummy v|get&PAST pro:per|it adv|in .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	Mummy got it in !
+%mor:	n:prop|Mummy v|get&PAST pro:per|it adv|in !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	Mummy missed it !
+%mor:	n:prop|Mummy v|miss-PAST pro:per|it !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	and .
+%mor:	coord|and .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	this .
+%mor:	pro:dem|this .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	if you do that one it can go on your wrist .
+%mor:	conj|if pro:per|you v|do det:dem|that pro:indef|one pro:per|it mod|can v|go prep|on det:poss|your n|wrist .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|3|OBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT 9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	have a little armband !
+%mor:	v|have det:art|a adj|little n|+n|arm+n|band !
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CDS:	that's right !
+%mor:	pro:dem|that~cop|be&3S co|right !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	that's better isn't it ?
+%mor:	pro:dem|that~cop|be&3S adj|good&CP cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PRED 5|4|NEG 6|4|SUBJ 7|2|PUNCT
+*CDS:	got a little bag !
+%mor:	v|get&PAST det:art|a adj|little n|bag !
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*CDS:	Mummy have one ?
+%mor:	n:prop|Mummy v|have pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*CDS:	Mummy can .
+%mor:	n:prop|Mummy mod|can .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*CDS:	put all those down ?
+%mor:	v|put&ZERO qn|all det:dem|those adv|down ?
+%gra:	1|0|ROOT 2|3|QUANT 3|1|OBJ 4|3|JCT 5|1|PUNCT
+*CDS:	yeah !
+%mor:	co|yeah !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	what's that ?
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	baby's first colors !
+%mor:	adj|baby&dn-POSS adj|first n|color-PL !
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*CDS:	orange .
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	fish .
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	and an orange .
+%mor:	coord|and det:art|a n|orange .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CDS:	red .
+%mor:	adj|red .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	car !
+%mor:	n|car !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	and an apple .
+%mor:	coord|and det:art|a n|apple .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CDS:	apple !
+%mor:	n|apple !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	oh !
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	green !
+%mor:	n|green !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	grey .
+%mor:	adj|grey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	elephant .
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	and a dolphin .
+%mor:	coord|and det:art|a n|dolphin .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*CDS:	elephant .
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	dolphin .
+%mor:	n|dolphin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	where's the elephant ?
+%mor:	pro:int|where~cop|be&3S det:art|the n|elephant ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*CDS:	where's the elephant Childsname ?
+%mor:	pro:int|where~cop|be&3S det:art|the n|elephant n:prop|Childsname ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|APP 6|2|PUNCT
+*CDS:	&~ele .
+*CDS:	lots_of colors !
+%mor:	qn|lots_of n|color-PL !
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*CDS:	wow !
+%mor:	co|wow !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*CDS:	that's right !
+%mor:	pro:dem|that~cop|be&3S co|right !
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	isn't that good ?
+%mor:	cop|be&3S~neg|not det:dem|that adj|good ?
+%gra:	1|0|ROOT 2|1|NEG 3|4|DET 4|1|JCT 5|1|PUNCT
+*CDS:	Mummy can't build these towers can she ?
+%mor:	n:prop|Mummy mod|can~neg|not v|build det:dem|these n|tower-PL mod|can pro:sub|she ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|8|SUBJ 7|8|AUX 8|4|COMP 9|4|PUNCT
+*CDS:	right good .
+%mor:	adv|right adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*CDS:	doesn't matter because Childsname's throwing them .
+%mor:	mod|do&3S~neg|not v|matter conj|because n:prop|Childsname~aux|be&3S part|throw-PRESP pro:obj|them .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|OBJ 9|3|PUNCT
+*CDS:	what you doing Childsname ?
+%mor:	pro:int|what pro:per|you part|do-PRESP n:prop|Childsname ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*CDS:	it's stopped .
+%mor:	pro:per|it~aux|be&3S part|stop-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CDS:	what is it ?
+%mor:	pro:int|what cop|be&3S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	spins around doesn't it ?
+%mor:	n|spin-PL prep|around mod|do&3S~neg|not pro:per|it ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|5|AUX 4|3|NEG 5|2|POBJ 6|1|PUNCT
+*CDS:	who's that ?
+%mor:	pro:int|who~cop|be&3S pro:dem|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*CDS:	shall we fix these together ?
+%mor:	mod|shall pro:sub|we v|fix det:dem|these adv|together ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+@End
